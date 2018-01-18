@@ -1,0 +1,15 @@
+{
+  "name": "reeseesbot",
+  "version": "1.0.0",
+  "description": "Person Mixer chat bot for Xbox profile ReesesSnickers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "ReesesTest"
+  },
+  "author": "Bobbylee Ingalls",
+  "license": "ISC",
+  "dependencies": {
+    "beam-client-node": "^1.0.2",
+    "ws": "^4.0.0"
+  }
+}
